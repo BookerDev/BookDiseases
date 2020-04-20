@@ -1,0 +1,8 @@
+bandageChance: 25
+antibioticsChance: 80
+inhibitorChance: 50
+brokenLegChance: 15
+zombieInfect: 5
+pigInfect: 5
+hyperthermiaChance: 25
+feverChance: 25
